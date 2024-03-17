@@ -1,0 +1,101 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url('Sundar-Pichais-House-1200x700-compressed copy.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.menu_bar {
+    background-color: rgb(35, 34, 34);
+    height: 80px;
+    width: 96%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2%;
+}
+
+.logo {
+    color: aliceblue;
+    padding-left: 75px;
+}
+
+.logo span {
+    color: blue;
+}
+
+.menu_bar ul {
+    list-style: none;
+    display: flex;
+}
+
+.menu_bar ul li {
+
+    padding: 10px 50px;
+}
+
+.menu_bar ul li a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.content{
+  
+  width: 40%;
+  padding-left: 100px;   
+  padding-top: 100px;
+  
+  line-height: 40px;
+  
+  }
+  .content p {
+    line-height: 20px;
+    font-weight: bold;
+  }
+
+  .content button{
+    margin-top: 30px;
+    border: 2px solid yellow;
+    background-color: blue;
+    color: aliceblue;
+    font-weight: bolder;
+    line-height: 30px;
+    justify-content: space-between;
+    padding: 0 10%;
+    
+   }
+.content h1{
+     
+     color: blue;
+     
+     
+}
+.content h3{
+    color: red;
+    font-weight: bold;
+}
+
+.content ol{
+    margin-top: 30px;
+    font-size: 50px;
+    justify-content: space-between;
+}
+
+.content ol i{
+         color: rgb(63, 58, 216);
+    
+    
+}
+ 
+.content  h5{
+
+    font-size: medium;
+    
+    
+}
