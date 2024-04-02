@@ -1,0 +1,89 @@
+header {
+    height: 60px;
+    width: 100rem;
+    margin-top: 10px;
+    margin-left: 30px;
+    background-color:  #0303ea;
+    color: white;
+    padding-left: 40px;
+    border-radius: 22px;
+}
+
+h2 {
+    padding-top: 10px;
+    margin-left: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px #1eeeee;
+}
+
+.two {
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.btn-group{
+
+   
+}
+
+
+
+.play-list {
+    margin-top: 30px;
+    margin-left: 35px;
+    border-radius: 20px;
+    width: 100rem;
+    height: 67rem;
+    background-color:  #0303ea;
+}
+
+hr{
+
+    border: solid 2px;
+    color: white;
+    border-color: white;
+
+}
+
+.list {
+    margin-left: 60px;
+    margin-bottom: 100px;
+    height: 250px;
+    width: 90rem;
+    border: solid white;
+    border-style: dashed;
+    border-radius: 20px;
+
+}
+
+.img {
+    margin-left: 25px;
+    gap: 800px;
+    height: 140px;
+    width: 120px;
+    box-shadow: 15px 7px 7px #080808;
+    border-radius: 10px;
+    border: 2px solid rgb(251, 255, 255);
+
+}
+
+h3 {
+    padding-top: 15px;
+    padding-left: 40px;
+    color: white;
+}
+
+.five {
+    padding-top: 50px;
+}
+footer {
+    height: 50px;
+    width: 100rem;
+    margin-top: 50px;
+
+    text-align: center;
+    background-color:  #0303ea;
+    color: white;
+    padding-top: 17px;
+    padding-left: 30px;
+    border-radius: 22px;
+}
